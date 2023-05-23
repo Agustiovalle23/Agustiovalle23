@@ -7,7 +7,7 @@ Soy desarrollador Front end Developer⚡
 
 Conectate conmigo:
 📫 Como contactarme, Agustinovalle36@gmail.com
-
+Linkedin: https://www.linkedin.com/in/agustin-ovalle-91025a189/
 
 Tecnologías:
 FrontEnd: React | Redux | Next | Tailwind |Material-Ui
